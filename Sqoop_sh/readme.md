@@ -1,1 +1,1 @@
-
+使用Sqoop将数据从Hive导入到MySQL
